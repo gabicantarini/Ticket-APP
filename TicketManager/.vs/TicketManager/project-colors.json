@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ecb5d88-1dba-4021-b44d-d30a8420aa8d": {
+      "ProjectGuid": "3ecb5d88-1dba-4021-b44d-d30a8420aa8d",
+      "DisplayName": "TicketManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
