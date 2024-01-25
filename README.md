@@ -12,4 +12,5 @@
 ### **Functionalities** ⚙️
 - Client registration.
 - Address registration.
+- Save and Delete
 
