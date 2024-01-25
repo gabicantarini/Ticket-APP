@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "baecb162-5ec1-49ee-846b-ad917ec14fa5": {
+      "ProjectGuid": "baecb162-5ec1-49ee-846b-ad917ec14fa5",
+      "DisplayName": "CRUDSystem",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
